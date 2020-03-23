@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39014" started-at="2020-03-11T00:06:15Z" finished-at="2020-03-11T00:06:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39014" started-at="2020-03-11T00:06:15Z" finished-at="2020-03-11T00:06:54Z">
+      <class name="com.ixl.qa.testcases.LogingPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="setup" is-config="true" duration-ms="33076" started-at="2020-03-10T18:06:15Z" finished-at="2020-03-10T18:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="loginPageTitleTest" duration-ms="288" started-at="2020-03-10T18:06:48Z" finished-at="2020-03-10T18:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="IXLLogoImage()[pri:2, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="IXLLogoImage" duration-ms="320" started-at="2020-03-10T18:06:49Z" finished-at="2020-03-10T18:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IXLLogoImage -->
+        <test-method status="PASS" signature="CompMessageTest()[pri:3, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="CompMessageTest" duration-ms="72" started-at="2020-03-10T18:06:49Z" finished-at="2020-03-10T18:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompMessageTest -->
+        <test-method status="PASS" signature="BecomeaMemberBtnTest()[pri:4, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="BecomeaMemberBtnTest" duration-ms="71" started-at="2020-03-10T18:06:49Z" finished-at="2020-03-10T18:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BecomeaMemberBtnTest -->
+        <test-method status="PASS" signature="BecomeMemberTest()[pri:5, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="BecomeMemberTest" duration-ms="3916" started-at="2020-03-10T18:06:49Z" finished-at="2020-03-10T18:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BecomeMemberTest -->
+        <test-method status="PASS" signature="loginTest()[pri:6, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="loginTest" duration-ms="1200" started-at="2020-03-10T18:06:53Z" finished-at="2020-03-10T18:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ixl.qa.testcases.LogingPageTest@68c4039c]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-03-10T18:06:54Z" finished-at="2020-03-10T18:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ixl.qa.testcases.LogingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
